@@ -1,0 +1,395 @@
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\csc.exe
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\vbc.exe
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\EntityFramework.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\WebGrease.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\EntityFramework.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.pdb
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+F:\Projects\OnlineShopping\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\csc.exe
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\System.Collections.Immutable.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\vbc.exe
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe.config
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\EntityFramework.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\WebGrease.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\EntityFramework.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.pdb
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+D:\Misc\Tutorial\Online Shopping Store\OnlineShopping_MileStone_3\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\csc.exe
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\System.Collections.Immutable.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\vbc.exe
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe
+D:\AppData\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe.config
+D:\AppData\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+D:\AppData\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+D:\AppData\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\EntityFramework.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\WebGrease.dll
+D:\AppData\OnlineShopping\OnlineShopping\bin\EntityFramework.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+D:\AppData\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.pdb
+D:\AppData\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+D:\AppData\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+D:\AppData\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+D:\OnlineShopping\OnlineShopping\bin\roslyn\csc.exe
+D:\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OnlineShopping\OnlineShopping\bin\roslyn\System.Collections.Immutable.dll
+D:\OnlineShopping\OnlineShopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\OnlineShopping\OnlineShopping\bin\roslyn\vbc.exe
+D:\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe
+D:\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe.config
+D:\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+D:\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+D:\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+D:\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.dll
+D:\OnlineShopping\OnlineShopping\bin\EntityFramework.dll
+D:\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.dll
+D:\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+D:\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+D:\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+D:\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+D:\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.dll
+D:\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+D:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+D:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+D:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+D:\OnlineShopping\OnlineShopping\bin\WebGrease.dll
+D:\OnlineShopping\OnlineShopping\bin\EntityFramework.xml
+D:\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.xml
+D:\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+D:\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+D:\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.xml
+D:\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+D:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+D:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+D:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+D:\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.pdb
+D:\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+D:\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+D:\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+D:\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\csc.exe
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\System.Collections.Immutable.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\vbc.exe
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe.config
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\WebGrease.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.pdb
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\csc.exe
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\System.Collections.Immutable.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\vbc.exe
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe.config
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\WebGrease.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.pdb
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+D:\007-Winda\IF421323 Pemrograman Berbasis Komponen dan Framework\Project PROKOF\PROJECT PROKOF\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\csc.exe
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\System.Collections.Immutable.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\System.Reflection.Metadata.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\vbc.exe
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe.config
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\WebGrease.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.pdb
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+E:\KULIAH\SEMESTER 4\PROKOF\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\csc.exe
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\System.Collections.Immutable.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\System.Reflection.Metadata.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\vbc.exe
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe.config
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\EntityFramework.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\WebGrease.dll
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\EntityFramework.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.pdb
+E:\KULIAH KU\Semester 4\PROKOF\project\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\csc.exe
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\System.Collections.Immutable.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\System.Reflection.Metadata.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\vbc.exe
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\roslyn\VBCSCompiler.exe.config
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\EntityFramework.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\WebGrease.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\EntityFramework.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\EntityFramework.SqlServer.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.Optimization.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\Antlr3.Runtime.pdb
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+E:\Semester 4\PROKOF\PROJEK\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb

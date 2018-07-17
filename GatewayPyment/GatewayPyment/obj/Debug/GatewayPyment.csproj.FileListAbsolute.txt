@@ -1,0 +1,8 @@
+E:\Semester 4\PROKOF\PROJEK\GatewayPyment\GatewayPyment\bin\GatewayPyment.dll.config
+E:\Semester 4\PROKOF\PROJEK\GatewayPyment\GatewayPyment\bin\GatewayPyment.dll
+E:\Semester 4\PROKOF\PROJEK\GatewayPyment\GatewayPyment\bin\GatewayPyment.pdb
+E:\Semester 4\PROKOF\PROJEK\GatewayPyment\GatewayPyment\bin\EntityFramework.dll
+E:\Semester 4\PROKOF\PROJEK\GatewayPyment\GatewayPyment\bin\EntityFramework.xml
+E:\Semester 4\PROKOF\PROJEK\GatewayPyment\GatewayPyment\obj\Debug\GatewayPyment.csprojResolveAssemblyReference.cache
+E:\Semester 4\PROKOF\PROJEK\GatewayPyment\GatewayPyment\obj\Debug\GatewayPyment.dll
+E:\Semester 4\PROKOF\PROJEK\GatewayPyment\GatewayPyment\obj\Debug\GatewayPyment.pdb

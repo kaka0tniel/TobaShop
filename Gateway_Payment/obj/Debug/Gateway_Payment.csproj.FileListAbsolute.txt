@@ -1,0 +1,12 @@
+c:\users\cl@y\documents\visual studio 2015\Projects\Gateway_Payment\bin\Gateway_Payment.dll.config
+c:\users\cl@y\documents\visual studio 2015\Projects\Gateway_Payment\bin\Gateway_Payment.dll
+c:\users\cl@y\documents\visual studio 2015\Projects\Gateway_Payment\bin\Gateway_Payment.pdb
+c:\users\cl@y\documents\visual studio 2015\Projects\Gateway_Payment\obj\Debug\Gateway_Payment.csprojResolveAssemblyReference.cache
+c:\users\cl@y\documents\visual studio 2015\Projects\Gateway_Payment\obj\Debug\Gateway_Payment.dll
+c:\users\cl@y\documents\visual studio 2015\Projects\Gateway_Payment\obj\Debug\Gateway_Payment.pdb
+E:\Semester 4\PROKOF\PROJEK\Gateway_Payment\bin\Gateway_Payment.dll.config
+E:\Semester 4\PROKOF\PROJEK\Gateway_Payment\bin\Gateway_Payment.dll
+E:\Semester 4\PROKOF\PROJEK\Gateway_Payment\bin\Gateway_Payment.pdb
+E:\Semester 4\PROKOF\PROJEK\Gateway_Payment\obj\Debug\Gateway_Payment.csprojResolveAssemblyReference.cache
+E:\Semester 4\PROKOF\PROJEK\Gateway_Payment\obj\Debug\Gateway_Payment.dll
+E:\Semester 4\PROKOF\PROJEK\Gateway_Payment\obj\Debug\Gateway_Payment.pdb

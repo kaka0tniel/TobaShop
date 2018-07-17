@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GatewayPaymentModelStoreContainer" CdmEntityContainer="GatewayPaymentEntities">
+    <EntitySetMapping Name="GatewayPayments">
+      <EntityTypeMapping TypeName="GatewayPaymentModel.GatewayPayment">
+        <MappingFragment StoreEntitySet="GatewayPayment">
+          <ScalarProperty Name="id_transaksi" ColumnName="id_transaksi" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="no_kartu" ColumnName="no_kartu" />
+          <ScalarProperty Name="CVV" ColumnName="CVV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
